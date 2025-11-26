@@ -10,6 +10,7 @@ Pro forma shares, net income, and EPS
 Accretion/dilution %
 Summary metrics for quick decision-making
 Designed for students, case competitions, and interview preparation.
+
 🧩 How to Use the Model
 All inputs are located in the blue “Inputs” section on the left.
 Update the following fields:
