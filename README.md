@@ -2,14 +2,20 @@
 A clean, fully-automated M&amp;A accretion/dilution model in Excel. Includes deal financing, PPA &amp; goodwill, pro forma EPS, and accretion/dilution analysis.
 M&A Accretion/Dilution Model (Excel)
 A streamlined, fully automated M&A accretion/dilution model built in Excel.
+
 This tool calculates:
+
 Deal financing (cash / debt / stock mix)
+
 After-tax cost of debt & weighted cost of acquisition
+
 Purchase price allocation (PPA) & goodwill
+
 Pro forma shares, net income, and EPS
+
 Accretion/dilution %
+
 Summary metrics for quick decision-making
-Designed for students, case competitions, and interview preparation.
 
 🧩 How to Use the Model
 
