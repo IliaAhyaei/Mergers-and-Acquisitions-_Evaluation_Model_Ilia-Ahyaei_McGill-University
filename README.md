@@ -1,4 +1,4 @@
-# Mergers-and-Acquisitions-_Evaluation_Model_Ilia-Ahyaei_McGill-University
+# Mergers-and-Acquisitions-_Evaluation_Model_Excel
 A clean, fully-automated M&amp;A accretion/dilution model in Excel. Includes deal financing, PPA &amp; goodwill, pro forma EPS, and accretion/dilution analysis.
 M&A Accretion/Dilution Model (Excel)
 A streamlined, fully automated M&A accretion/dilution model built in Excel.
